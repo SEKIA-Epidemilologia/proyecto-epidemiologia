@@ -1,0 +1,25 @@
+Datos Abiertos Oficiales Gobierno de Colombia
+https://www.datos.gov.co/
+
+Datos Abiertos Bogotá D.C
+https://datosabiertos.bogota.gov.co/
+
+Datos Abiertos Cali
+https://datos.cali.gov.co/
+
+Datos Abiertos Antioquia
+https://datosabiertos.metropol.gov.co/
+
+Datos Abiertos Medellin
+http://medata.gov.co/
+
+Datos Geográficos Medellin
+https://geomedellin-m-medellin.opendata.arcgis.com/
+
+Datos Abiertos Transmilenio Bogotá D.C
+https://datosabiertos-transmilenio.hub.arcgis.com/
+https://storage.googleapis.com/validaciones_tmsa/index.html
+
+Otras plataformas datos abiertos
+https://www.postdata.gov.co/
+https://www.icde.gov.co/datos-y-recursos
